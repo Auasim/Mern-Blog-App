@@ -4,6 +4,7 @@
   <a href="https://wild-puce-catfish-tam.cyclic.app" rel="noopener">
  <img width=100%  src="Blog App .png" alt="Project logo"></a>
 </p>
+https://wild-puce-catfish-tam.cyclic.app
 
 <h3 align="center">Project Title</h3>
 
