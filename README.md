@@ -58,10 +58,10 @@ With its intuitive interface and robust features, the Blog App aims to provide a
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-What things you need to install the software and how to install them.
+Before getting started, ensure that you have the following prerequisites installed:
 
 ```
-Give examples
+- Node.js : You can download it from [here](https://nodejs.org/en/download/).
 ```
 
 ### Installing
