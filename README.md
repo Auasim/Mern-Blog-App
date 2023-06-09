@@ -59,9 +59,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 Before getting started, ensure that you have the following prerequisites installed:
 
-```
-- Node.js : You can download it from https://nodejs.org/en/download/
-```
+- You can download [Node.js](https://nodejs.org/en/download/)
 
 ### Installing
 A step by step series of examples that tell you how to get a development env running.
