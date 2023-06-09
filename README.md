@@ -30,9 +30,7 @@ https://wild-puce-catfish-tam.cyclic.app
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+
 
 ## 🧐 About <a name = "about"></a>
 The Blog App is a web application designed to provide users with a platform for creating, managing, and sharing blog posts. It offers a user-friendly interface for both content creators and readers, allowing them to engage with the blogging community.
@@ -62,7 +60,7 @@ These instructions will get you a copy of the project up and running on your loc
 Before getting started, ensure that you have the following prerequisites installed:
 
 ```
-- Node.js : You can download it from <a href="https://nodejs.org/en/download/"></a>
+- Node.js : You can download it from https://nodejs.org/en/download/
 ```
 
 ### Installing
@@ -71,40 +69,35 @@ A step by step series of examples that tell you how to get a development env run
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+2. Navigate to the client directory: `cd client`
+3. Navigate to the server directory : `cd ..`
+4. Install dependencies: `npm install`
+5. Start the development client and server directly run this command: `npm run server`
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
 
 ## Configuration
-
 - Create a `.env` file in the root directory.
 - Add any required configuration variables, such as API keys or database connections.
+1. PORT = 
+2. DEV_MODE = 
+3. MONGO_URL = "mongodb+srv://username:<password>@cluster.mongodb.net/<appname>?retryWrites=true&w=majority"
 
 ```
 ## 🎈 Usage <a name="usage"></a>
-1. Access the application at `http://localhost:3000` in your browser.
+1. Access the application at `http://localhost:8000` in your browser.
 2. [Provide instructions or examples on how to use the application.]
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+For deployment First you have to install github desktop link bellow
+- [GitHub Desktop](https://desktop.github.com/)
+- Create a repository on github
+- Run the command in VS code `npm run build` It will make the static build folder
+- When You Complete all the processes
+- Go to the [Cyclic](https://www.cyclic.sh/) portal for deployment , It is used for full stack deployment
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
+- [React](https://legacy.reactjs.org/docs/getting-started.html) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
