@@ -167,10 +167,9 @@ Build source code incrementally (do not build what was already built before): ./
 
 ⚙️ Running the tests
 <img width=100%  src="Blog App .png" alt="Project logo">
-<img width=100%  src="Create-Page.png" alt="Project logo">
-<img width=100%  src="Register-Page.png" alt="Project logo">
-<img width=100%  src="login-Page.png" alt="Project logo">
-
+![Create-Page.png](https://github.com/Auasim/Mern-Blog-App/blob/main/Register-Page.png)
+![Register-Page.png](https://github.com/Auasim/Mern-Blog-App/blob/main/Register-Page.png)
+![login-Page.png](https://github.com/Auasim/Mern-Blog-App/blob/main/Create-Page.png)
 
 
 ## Configuration
