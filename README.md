@@ -165,11 +165,19 @@ Examples (./ should be added only for Linux/macOS):
 Build source code incrementally (do not build what was already built before): ./tests.cmd -Dintellij.build.incremental.compilation=true Run a specific test: ./tests.cmd -Dintellij.build.test.patterns=com.intellij.util.ArrayUtilTest tests.cmd is used just to run CommunityRunTestsBuildTarget from the command line. You may call it directly from IDEA, see run configuration tests in community for an example.
 
 
-⚙️ Running the tests
+## 🔧 Running the tests <a name = "tests"></a>
+
+`Frontend`
+
 <img width=100%  src="Register-Page.png" alt="Project logo">
 <img width=100%  src="login-Page.png" alt="Project logo">
 <img width=100%  src="Create-Page.png" alt="Project logo">
 <img width=100%  src="Blog App .png" alt="Project logo">
+
+
+`Backend`
+
+<img width=100%  src="Backend-Terminal.png" alt="Project logo">
 
 ## Configuration
 - Create a `.env` file in the root directory.
