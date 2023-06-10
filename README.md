@@ -1,7 +1,7 @@
 # MERN-BLOG-APP
 
 <p align="center">
-  <a href="https://wild-puce-catfish-tam.cyclic.app" rel="noopener">
+  <a href="https://wild-puce-catfish-tam.cyclic.app" rel="">
  <img width=400px  src="blog-logo.png" alt="Project logo"></a>
 </p>
 https://wild-puce-catfish-tam.cyclic.app
@@ -166,11 +166,10 @@ Build source code incrementally (do not build what was already built before): ./
 
 
 ⚙️ Running the tests
+<img width=100%  src="Register-Page.png" alt="Project logo">
+<img width=100%  src="login-Page.png" alt="Project logo">
+<img width=100%  src="Create-Page.png" alt="Project logo">
 <img width=100%  src="Blog App .png" alt="Project logo">
-![Create-Page.png](https://github.com/Auasim/Mern-Blog-App/blob/main/Register-Page.png)
-![Register-Page.png](https://github.com/Auasim/Mern-Blog-App/blob/main/Register-Page.png)
-![login-Page.png](https://github.com/Auasim/Mern-Blog-App/blob/main/Create-Page.png)
-
 
 ## Configuration
 - Create a `.env` file in the root directory.
