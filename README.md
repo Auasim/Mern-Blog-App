@@ -67,7 +67,7 @@ You need to install
 * [VS code](https://code.visualstudio.com/download)
 
 For Testing API
-[Post Man](https://www.postman.com/downloads/)
+* [Post Man](https://www.postman.com/downloads/)
 
 For Designing
 * [Material UI](https://mui.com/)
@@ -186,7 +186,6 @@ Build source code incrementally (do not build what was already built before): ./
 2. DEV_MODE = 
 3. MONGO_URL = "mongodb+srv://username:<password>@cluster.mongodb.net/<appname>?retryWrites=true&w=majority"
 
-```
 ## 🎈 Usage <a name="usage"></a>
 1. Access the application at `http://localhost:8000` in your browser.
 2. [Provide instructions or examples on how to use the application.]
